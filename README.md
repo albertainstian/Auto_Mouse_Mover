@@ -9,13 +9,14 @@ Features
 - Lightweight and easy to run
 
 Installation
-Clone this repo and install dependencies:
+Clone this repo and install dependencies in bash (terminal):
 
-bash
 git clone https://github.com/your-username/auto-mouse-mover.git
 cd auto-mouse-mover
 pip install -r requirements.txt
 
-Run the Script
+
+--------------
+Run the Script (in Terminal)
 
 python auto_mouse_mover.py
