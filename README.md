@@ -13,7 +13,6 @@ Clone this repo and install dependencies in bash (terminal):
 
 git clone https://github.com/your-username/auto-mouse-mover.git
 cd auto-mouse-mover
-pip install -r requirements.txt
 
 
 --------------
